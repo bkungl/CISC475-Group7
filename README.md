@@ -1,4 +1,4 @@
-#Installation
+# Installation
 -Download Node.js
 	https://nodejs.org/en/download/
 -Install Angular-CLI 6.0.8
@@ -10,14 +10,14 @@
 	npm start
 -Application runs at http://localhost:4200/
 
-#Features
+# Features
 -Displays large amounts of data in an appealing fashion
 -Filter through test and lab data
 -Search questions by prompt
 -View detailed information on specific questions
 -Interactive tables and charts to see more information at a glance. 
 
-#Future Goals
+# Future Goals
 -Fix loading error - data will not completely load so reload is necessary
 -Replace json data from ./ngStats/src/assets with a json from a database.
 	+Need an assets folder or a database to pull data live.
@@ -28,7 +28,7 @@
 -Add compatibility for lab data
 	+Extend test frameworks to labs since the data format is similar. 
 	
-#Contributors 
+# Contributors 
 -Olivia Liepa <oliepa@udel.edu>
 -Jared Hawley <jhawley@udel.edu>,
 -Konark Christian <konark@udel.edu>,
